@@ -1,0 +1,12 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "netherores:nether_gold_ore"
+        }
+    ],
+    "result": {
+        "item": "minecraft:gold_ore",
+        "count": 2
+    }
+}

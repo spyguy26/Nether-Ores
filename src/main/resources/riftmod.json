@@ -1,0 +1,12 @@
+{
+  "id": "netherores",
+  "name": "NetherOres",
+  "authors": [
+    "spyguy26"
+  ],
+  "listeners": [
+    "org.spyguy26.netherores.listener.NetherOresItems",
+    "org.spyguy26.netherores.listener.NetherOresBlocks",
+    "org.spyguy26.netherores.listener.NetherOresWorldChanger"
+  ]
+}

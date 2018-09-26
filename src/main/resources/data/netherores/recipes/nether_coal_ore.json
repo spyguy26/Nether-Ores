@@ -1,0 +1,12 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "netherores:nether_coal_ore"
+        }
+    ],
+    "result": {
+        "item": "minecraft:coal_ore",
+        "count": 2
+    }
+}

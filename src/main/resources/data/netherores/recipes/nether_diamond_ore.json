@@ -1,0 +1,12 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "netherores:nether_diamond_ore"
+        }
+    ],
+    "result": {
+        "item": "minecraft:diamond_ore",
+        "count": 2
+    }
+}
