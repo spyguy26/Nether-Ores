@@ -1,0 +1,12 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "netherores:end_iron_ore"
+        }
+    ],
+    "result": {
+        "item": "minecraft:iron_ore",
+        "count": 3
+    }
+}

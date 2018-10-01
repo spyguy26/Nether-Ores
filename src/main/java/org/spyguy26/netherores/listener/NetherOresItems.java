@@ -25,6 +25,13 @@ public class NetherOresItems implements ItemAdder {
         Item.register(NETHER_LAPIS_ORE, ItemGroup.BUILDING_BLOCKS);
         Item.register(NETHER_EMERALD_ORE, ItemGroup.BUILDING_BLOCKS);
         Item.register(NETHER_REDSTONE_ORE, ItemGroup.BUILDING_BLOCKS);
+        Item.register(END_COAL_ORE, ItemGroup.BUILDING_BLOCKS);
+        Item.register(END_IRON_ORE, ItemGroup.BUILDING_BLOCKS);
+        Item.register(END_GOLD_ORE, ItemGroup.BUILDING_BLOCKS);
+        Item.register(END_DIAMOND_ORE, ItemGroup.BUILDING_BLOCKS);
+        Item.register(END_LAPIS_ORE, ItemGroup.BUILDING_BLOCKS);
+        Item.register(END_EMERALD_ORE, ItemGroup.BUILDING_BLOCKS);
+        Item.register(END_REDSTONE_ORE, ItemGroup.BUILDING_BLOCKS);
 
     }
 }

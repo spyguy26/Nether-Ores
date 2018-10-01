@@ -147,5 +147,138 @@ public class NetherOresWorldChanger implements WorldChanger {
                                 128)
                 )
         );
+        biome.addFeature(
+                GenerationStage.Decoration.UNDERGROUND_ORES,
+                Biome.createCompositeFeature(
+                        Feature.MINABLE,
+                        new MinableConfig(
+                                (state) -> {
+                                    Block block = state.getBlock();
+                                    return block == Blocks.END_STONE;
+                                },
+                                NetherOresRegistry.END_COAL_ORE.getDefaultState(),
+                                8
+                        ),
+                        COUNT_RANGE,
+                        new CountRangeConfig(20,
+                                0,
+                                0,
+                                128)
+                )
+        );
+        biome.addFeature(
+                GenerationStage.Decoration.UNDERGROUND_ORES,
+                Biome.createCompositeFeature(
+                        Feature.MINABLE,
+                        new MinableConfig(
+                                (state) -> {
+                                    Block block = state.getBlock();
+                                    return block == Blocks.END_STONE;
+                                },
+                                NetherOresRegistry.END_IRON_ORE.getDefaultState(),
+                                8
+                        ),
+                        COUNT_RANGE,
+                        new CountRangeConfig(20,
+                                0,
+                                0,
+                                128)
+                )
+        );
+        biome.addFeature(
+                GenerationStage.Decoration.UNDERGROUND_ORES,
+                Biome.createCompositeFeature(
+                        Feature.MINABLE,
+                        new MinableConfig(
+                                (state) -> {
+                                    Block block = state.getBlock();
+                                    return block == Blocks.END_STONE;
+                                },
+                                NetherOresRegistry.END_GOLD_ORE.getDefaultState(),
+                                8
+                        ),
+                        COUNT_RANGE,
+                        new CountRangeConfig(2,
+                                0,
+                                0,
+                                128)
+                )
+        );
+        biome.addFeature(
+                GenerationStage.Decoration.UNDERGROUND_ORES,
+                Biome.createCompositeFeature(
+                        Feature.MINABLE,
+                        new MinableConfig(
+                                (state) -> {
+                                    Block block = state.getBlock();
+                                    return block == Blocks.END_STONE;
+                                },
+                                NetherOresRegistry.END_DIAMOND_ORE.getDefaultState(),
+                                8
+                        ),
+                        COUNT_RANGE,
+                        new CountRangeConfig(1,
+                                0,
+                                0,
+                                128)
+                )
+        );
+        biome.addFeature(
+                GenerationStage.Decoration.UNDERGROUND_ORES,
+                Biome.createCompositeFeature(
+                        Feature.MINABLE,
+                        new MinableConfig(
+                                (state) -> {
+                                    Block block = state.getBlock();
+                                    return block == Blocks.END_STONE;
+                                },
+                                NetherOresRegistry.END_LAPIS_ORE.getDefaultState(),
+                                8
+                        ),
+                        COUNT_RANGE,
+                        new CountRangeConfig(16,
+                                0,
+                                0,
+                                128)
+                )
+        );
+        biome.addFeature(
+                GenerationStage.Decoration.UNDERGROUND_ORES,
+                Biome.createCompositeFeature(
+                        Feature.MINABLE,
+                        new MinableConfig(
+                                (state) -> {
+                                    Block block = state.getBlock();
+                                    return block == Blocks.END_STONE;
+                                },
+                                NetherOresRegistry.END_EMERALD_ORE.getDefaultState(),
+                                8
+                        ),
+                        COUNT_RANGE,
+                        new CountRangeConfig(1,
+                                0,
+                                0,
+                                128)
+                )
+        );
+        biome.addFeature(
+                GenerationStage.Decoration.UNDERGROUND_ORES,
+                Biome.createCompositeFeature(
+                        Feature.MINABLE,
+                        new MinableConfig(
+                                (state) -> {
+                                    Block block = state.getBlock();
+                                    return block == Blocks.END_STONE;
+                                },
+                                NetherOresRegistry.END_REDSTONE_ORE.getDefaultState(),
+                                8
+                        ),
+                        COUNT_RANGE,
+                        new CountRangeConfig(8,
+                                0,
+                                0,
+                                128)
+                )
+        );
     }
 }

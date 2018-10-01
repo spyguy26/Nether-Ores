@@ -1,0 +1,12 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "netherores:end_emerald_ore"
+        }
+    ],
+    "result": {
+        "item": "minecraft:emerald_ore",
+        "count": 3
+    }
+}

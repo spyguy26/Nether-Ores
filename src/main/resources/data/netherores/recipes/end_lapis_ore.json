@@ -1,0 +1,12 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "netherores:end_lapis_ore"
+        }
+    ],
+    "result": {
+        "item": "minecraft:lapis_ore",
+        "count": 3
+    }
+}

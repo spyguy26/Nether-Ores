@@ -19,5 +19,12 @@ public class NetherOresBlocks implements BlockAdder {
         Block.register(new ResourceLocation(MOD_ID, "nether_lapis_ore"), NETHER_LAPIS_ORE);
         Block.register(new ResourceLocation(MOD_ID, "nether_emerald_ore"), NETHER_EMERALD_ORE);
         Block.register(new ResourceLocation(MOD_ID, "nether_redstone_ore"), NETHER_REDSTONE_ORE);
+        Block.register(new ResourceLocation(MOD_ID, "end_coal_ore"), END_COAL_ORE);
+        Block.register(new ResourceLocation(MOD_ID, "end_iron_ore"), END_IRON_ORE);
+        Block.register(new ResourceLocation(MOD_ID, "end_gold_ore"), END_GOLD_ORE);
+        Block.register(new ResourceLocation(MOD_ID, "end_diamond_ore"), END_DIAMOND_ORE);
+        Block.register(new ResourceLocation(MOD_ID, "end_lapis_ore"), END_LAPIS_ORE);
+        Block.register(new ResourceLocation(MOD_ID, "end_emerald_ore"), END_EMERALD_ORE);
+        Block.register(new ResourceLocation(MOD_ID, "end_redstone_ore"), END_REDSTONE_ORE);
     }
 }

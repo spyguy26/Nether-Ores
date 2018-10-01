@@ -1,0 +1,12 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "netherores:end_redstone_ore"
+        }
+    ],
+    "result": {
+        "item": "minecraft:redstone_ore",
+        "count": 3
+    }
+}
