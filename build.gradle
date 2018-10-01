@@ -12,7 +12,7 @@ apply plugin: 'net.minecraftforge.gradle.tweaker-client'
 apply plugin: 'java'
 
 group 'org.spyguy26.netherores'
-version '1.0.0'
+version '1.0.1'
 archivesBaseName = 'netherores'
 
 sourceCompatibility = 1.8
