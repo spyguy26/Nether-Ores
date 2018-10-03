@@ -1,0 +1,16 @@
+{
+  "block.netherores.nether_coal_ore": "地獄煤礦",
+  "block.netherores.nether_iron_ore": "地獄鐵礦",
+  "block.netherores.nether_gold_ore": "地獄金礦",
+  "block.netherores.nether_diamond_ore": "地獄鑽石礦",
+  "block.netherores.nether_lapis_ore": "地獄青金石礦",
+  "block.netherores.nether_emerald_ore": "地獄綠寶石礦",
+  "block.netherores.nether_redstone_ore": "地獄紅石礦",
+  "block.netherores.end_coal_ore": "終界煤礦",
+  "block.netherores.end_iron_ore": "終界鐵礦",
+  "block.netherores.end_gold_ore": "終界金礦",
+  "block.netherores.end_diamond_ore": "終界鑽石礦",
+  "block.netherores.end_lapis_ore": "終界青金石礦",
+  "block.netherores.end_emerald_ore": "終界綠寶石礦",
+  "block.netherores.end_redstone_ore": "終界紅石礦"
+}
