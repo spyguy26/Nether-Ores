@@ -1,0 +1,16 @@
+{
+  "block.netherores.nether_coal_ore": "下界煤矿石",
+  "block.netherores.nether_iron_ore": "下界铁矿石",
+  "block.netherores.nether_gold_ore": "下界金矿石",
+  "block.netherores.nether_diamond_ore": "下界钻石矿石",
+  "block.netherores.nether_lapis_ore": "下界青金石矿石",
+  "block.netherores.nether_emerald_ore": "下界绿宝石矿石",
+  "block.netherores.nether_redstone_ore": "下界红石矿石",
+  "block.netherores.end_coal_ore": "末地煤矿石",
+  "block.netherores.end_iron_ore": "末地铁矿石",
+  "block.netherores.end_gold_ore": "末地金矿石",
+  "block.netherores.end_diamond_ore": "末地钻石矿石",
+  "block.netherores.end_lapis_ore": "末地青金石矿石",
+  "block.netherores.end_emerald_ore": "末地绿宝石矿石",
+  "block.netherores.end_redstone_ore": "末地红石矿石"
+}
